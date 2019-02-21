@@ -11,7 +11,8 @@
     "eject": "expo eject",
     "ios": "expo start --ios",
     "semantic-release": "semantic-release",
-    "start": "expo start"
+    "start": "expo start",
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "husky": {
     "hooks": {
