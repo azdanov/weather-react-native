@@ -6,7 +6,8 @@
 
 Simple weather app based on [MetaWeather API](https://www.metaweather.com).
 
-![Screenshot](https://user-images.githubusercontent.com/6123841/53243611-2b97f100-36b1-11e9-92fa-0aad125ae203.png)
+<img width="350" alt="screenshot 2019-02-22 at 14 48 44" src="https://user-images.githubusercontent.com/6123841/53243611-2b97f100-36b1-11e9-92fa-0aad125ae203.png">
+
 
 ## Installing / Getting started
 
