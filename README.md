@@ -1,5 +1,3 @@
-![Logo of the project](https://user-images.githubusercontent.com/6123841/53242998-2e91e200-36af-11e9-8bb1-5e184a370d77.png)
-
 # Weather - React Native &middot; [![Build Status](https://travis-ci.com/azdanov/weather-react-native.svg?branch=master)](https://travis-ci.com/azdanov/weather-react-native) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 
 > Trying out React Native
