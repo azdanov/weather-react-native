@@ -1,4 +1,4 @@
-# Weather - React Native &middot; [![Build Status](https://travis-ci.com/azdanov/weather-react-native.svg?branch=master)](https://travis-ci.com/azdanov/weather-react-native) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your/your-project/blob/master/LICENSE)
+# Weather - React Native &middot; [![Build Status](https://travis-ci.com/azdanov/weather-react-native.svg?branch=master)](https://travis-ci.com/azdanov/weather-react-native) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/azdanov/weather-react-native/blob/master/LICENSE)
 
 > Trying out React Native
 
