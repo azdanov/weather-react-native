@@ -1,4 +1,4 @@
-# Weather - React Native &middot; [![Build Status](https://travis-ci.com/azdanov/weather-react-native.svg?branch=master)](https://travis-ci.com/azdanov/weather-react-native) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+# Weather - React Native &middot; [![Build Status](https://travis-ci.com/azdanov/weather-react-native.svg?branch=master)](https://travis-ci.com/azdanov/weather-react-native) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your/your-project/blob/master/LICENSE)
 
 > Trying out React Native
 
@@ -12,8 +12,10 @@ Simple weather app based on [MetaWeather API](https://www.metaweather.com).
 Clone the repo, and start as usual for Expo project.
 
 ```shell
+# Install dependencies
 yarn
 
+# Start Expo
 yarn start
 ```
 
@@ -34,20 +36,19 @@ Make sure that you have Expo properly installed with Android and/or iOS emulator
 Expo will build the `.apk` and `.ipa` files. For iOS a paid developers account is necessary.
 
 ```shell
+# Build with Expo for Android
 yarn build:android
 
+# Build with Expo for iOS
 yarn build:ios
 ```
-
-## Versioning
-
-We can maybe use [SemVer](http://semver.org/) for versioning. For the versions available, see the [link to tags on this repository](/tags).
 
 ## Tests
 
 Jest is used as the projects test suite.
 
 ```shell
+# Run tests
 yarn test
 ```
 
