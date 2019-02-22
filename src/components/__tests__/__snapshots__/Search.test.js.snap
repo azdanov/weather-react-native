@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should call onSubmit 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "hsla(209, 23%, 60%, 0.7)",
+      "borderColor": "hsla(209, 23%, 60%, 0.8)",
+      "borderRadius": 5,
+      "borderWidth": 0.5,
+      "height": 40,
+      "marginHorizontal": 40,
+      "marginTop": 20,
+      "paddingHorizontal": 10,
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    autoCorrect={false}
+    onBlur={[Function]}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    onSubmit={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            undefined,
+          ],
+        ],
+        "results": Array [
+          Object {
+            "isThrow": false,
+            "value": undefined,
+          },
+        ],
+      }
+    }
+    onSubmitEditing={[Function]}
+    placeholder=""
+    placeholderTextColor="white"
+    style={
+      Object {
+        "color": "#F0F4F8",
+        "flex": 1,
+      }
+    }
+    testID="search"
+    underlineColorAndroid="transparent"
+    value="testing"
+  />
+</View>
+`;
+
+exports[`should render 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "hsla(209, 23%, 60%, 0.7)",
+      "borderColor": "hsla(209, 23%, 60%, 0.8)",
+      "borderRadius": 5,
+      "borderWidth": 0.5,
+      "height": 40,
+      "marginHorizontal": 40,
+      "marginTop": 20,
+      "paddingHorizontal": 10,
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    autoCorrect={false}
+    onBlur={[Function]}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    onSubmit={[MockFunction]}
+    onSubmitEditing={[Function]}
+    placeholder=""
+    placeholderTextColor="white"
+    style={
+      Object {
+        "color": "#F0F4F8",
+        "flex": 1,
+      }
+    }
+    testID="search"
+    underlineColorAndroid="transparent"
+    value=""
+  />
+</View>
+`;
+
+exports[`should show placeholder 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "hsla(209, 23%, 60%, 0.7)",
+      "borderColor": "hsla(209, 23%, 60%, 0.8)",
+      "borderRadius": 5,
+      "borderWidth": 0.5,
+      "height": 40,
+      "marginHorizontal": 40,
+      "marginTop": 20,
+      "paddingHorizontal": 10,
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    autoCorrect={false}
+    onBlur={[Function]}
+    onChangeText={[Function]}
+    onFocus={[Function]}
+    onSubmit={[MockFunction]}
+    onSubmitEditing={[Function]}
+    placeholder="test"
+    placeholderTextColor="white"
+    style={
+      Object {
+        "color": "#F0F4F8",
+        "flex": 1,
+      }
+    }
+    testID="search"
+    underlineColorAndroid="transparent"
+    value=""
+  />
+</View>
+`;
